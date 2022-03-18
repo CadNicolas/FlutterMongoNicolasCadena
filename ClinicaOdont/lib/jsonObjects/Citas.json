@@ -1,0 +1,39 @@
+[
+    {
+    "_id": {
+      "$oid": "623295759e6a9fe9a35e6d3a"
+    },
+    "nombre": "Nicolas",
+    "Apellido": "Cadena",
+    "Genero": "Masculino",
+    "Edad": "24",
+    "Estrato": "2",
+    "RH": "A+",
+    "Tratamiento": "Ortodoncia",
+    "Fecha": "01/03/2022"
+  },{
+    "_id": {
+      "$oid": "623295759e6a9fe9a35e6d3b"
+    },
+    "nombre": "Daniel",
+    "Apellido": "Hernández",
+    "Genero": "Masculino",
+    "Edad": "34",
+    "Estrato": "3",
+    "RH": "O+",
+    "Tratamiento": "Limpieza Dental",
+    "Fecha": "10/02/2022"
+  },{
+    "_id": {
+      "$oid": "623295759e6a9fe9a35e6d3c"
+    },
+    "nombre": "Daniel",
+    "Apellido": "Hernández",
+    "Genero": "Masculino",
+    "Edad": "34",
+    "Estrato": "3",
+    "RH": "O+",
+    "Tratamiento": "Periodoncia",
+    "Fecha": "15/03/2022"
+  }
+]

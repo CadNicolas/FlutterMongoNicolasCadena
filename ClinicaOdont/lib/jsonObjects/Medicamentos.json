@@ -1,0 +1,21 @@
+[
+    {
+    "_id": {
+      "$oid": "623298b19e6a9fe9a35e6d4a"
+    },
+    "nombre": " Paracetamol",
+    "Aplicar": "Dolor"
+  },{
+    "_id": {
+      "$oid": "623298b19e6a9fe9a35e6d4b"
+    },
+    "nombre": " Metamizol",
+    "Aplicar": "Dolor Intenso"
+  },{
+    "_id": {
+      "$oid": "623298b19e6a9fe9a35e6d4c"
+    },
+    "nombre": " Ketorolaco",
+    "Aplicar": "Dolor corto - Analgesico"
+  }
+]

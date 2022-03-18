@@ -1,0 +1,30 @@
+[
+  {
+    "_id": {
+      "$oid": "623296bf9e6a9fe9a35e6d40"
+    },
+    "nombre": " Manuel",
+    "Apellido": "Flores",
+    "Genero": "Masculino",
+    "Edad": "30",
+    "Medico": "Odontoogo"
+  },{
+    "_id": {
+      "$oid": "623296bf9e6a9fe9a35e6d41"
+    },
+    "nombre": "Javier ",
+    "Apellido": "Castillo.",
+    "Genero": "Masculino",
+    "Edad": "28",
+    "Medico": "Ortodoncista"
+  },{
+    "_id": {
+      "$oid": "623296bf9e6a9fe9a35e6d42"
+    },
+    "nombre": "Jorge ",
+    "Apellido": "Ramírez",
+    "Genero": "Masculino",
+    "Edad": "35",
+    "Medico": "Periodoncista"
+  }
+]

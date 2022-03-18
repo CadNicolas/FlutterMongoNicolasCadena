@@ -1,0 +1,30 @@
+[
+    {
+    "_id": {
+      "$oid": "6233c1d3b208e5c6ba5b0cb5"
+    },
+    "nombre": "Nicolas",
+    "Apellido": "Cadena",
+    "Genero": "Masculino",
+    "Edad": "24",
+    "Tratamiento": "Ortodoncia"
+  },{
+    "_id": {
+      "$oid": "6233c1d3b208e5c6ba5b0cb6"
+    },
+    "nombre": "Daniel",
+    "Apellido": "Hernández",
+    "Genero": "Masculino",
+    "Edad": "34",
+    "Tratamiento": "Limpieza Dental"
+  },{
+    "_id": {
+      "$oid": "6233c1d3b208e5c6ba5b0cb7"
+    },
+    "nombre": "Daniel",
+    "Apellido": "Hernández",
+    "Genero": "Masculino",
+    "Edad": "34",
+    "Tratamiento": "Periodoncia"
+  }
+]

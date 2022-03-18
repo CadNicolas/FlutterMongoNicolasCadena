@@ -1,0 +1,28 @@
+[
+    {
+    "_id": {
+      "$oid": "62329b1f9e6a9fe9a35e6d74"
+    },
+    "Servicio1": " Rehabilitación Oral "
+  },{
+    "_id": {
+      "$oid": "62329b1f9e6a9fe9a35e6d75"
+    },
+    "Servicio2": " Periodoncia "
+  },{
+    "_id": {
+      "$oid": "62329b1f9e6a9fe9a35e6d76"
+    },
+    "Servicio3": " Ortodoncia "
+  },{
+    "_id": {
+      "$oid": "62329b1f9e6a9fe9a35e6d77"
+    },
+    "Servicio4": " Endodoncia "
+  },{
+    "_id": {
+      "$oid": "62329b1f9e6a9fe9a35e6d78"
+    },
+    "Servicio5": " Odontopediatría "
+  }
+]

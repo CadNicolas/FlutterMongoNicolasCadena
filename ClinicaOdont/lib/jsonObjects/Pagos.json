@@ -1,0 +1,30 @@
+[
+    {
+    "_id": {
+      "$oid": "62329a0b9e6a9fe9a35e6d6e"
+    },
+    "nombre": "Nicolas",
+    "Apellido": "Cadena",
+    "Forma de pago": "Efectivo",
+    "Valor": "200.000",
+    "Motivo": "Ortodoncia"
+  },{
+    "_id": {
+      "$oid": "62329a0b9e6a9fe9a35e6d6f"
+    },
+    "nombre": "Daniel",
+    "Apellido": "Hernández",
+    "Forma de pago": "Efectivo",
+    "Valor": "50.000",
+    "Motivo": "Limpieza Dental"
+  },{
+    "_id": {
+      "$oid": "62329a0b9e6a9fe9a35e6d70"
+    },
+    "nombre": " Pablo ",
+    "Apellido": "Martínez",
+    "Forma de pago": "Efectivo",
+    "Valor": "350.000",
+    "Motivo": "Periodoncia"
+  }
+]
